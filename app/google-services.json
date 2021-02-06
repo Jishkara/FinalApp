@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643563503901",
+    "project_id": "finalapp-cc7bc",
+    "storage_bucket": "finalapp-cc7bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643563503901:android:886d42464066fe5b22a1f4",
+        "android_client_info": {
+          "package_name": "com.example.ladifinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643563503901-dsoff4nu0jnvqq41t1fsbk9m5pc7ol0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs8zCP1bjdNvIJKIAFD5MBAccoNAqwt9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643563503901-dsoff4nu0jnvqq41t1fsbk9m5pc7ol0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
